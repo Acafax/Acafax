@@ -1,7 +1,8 @@
 
 # Hi there, I'm Wiktor Markiewicz! 👋
 
-I am a Computer Science graduate specializing in **Cloud Systems** and an aspiring **Java Developer**
+I am a Computer Science graduate specializing in **Cloud Systems** and a **Java Developer**.
+ **3rd Place Winner at HackYeah 2025**
 
 ---
 
